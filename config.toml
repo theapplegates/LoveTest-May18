@@ -1,4 +1,4 @@
-baseURL = "https://master.d1arb3ywkhuxsw.amplifyapp.com"
+baseURL = "https://master.dlth4ilajatoq.amplifyapp.com/exampleSite"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
